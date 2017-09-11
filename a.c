@@ -2,7 +2,7 @@
 #include<conio.h>
 int main()
 {
-int ch;
+char ch;
 printf("enter the chracter");
 scanf("%c",&ch);
 if((ch>='a'&&ch<='z')||(ch>='A'&&ch<='Z'))

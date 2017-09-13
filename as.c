@@ -1,5 +1,5 @@
 #include<stdio.h>
-#include<conoi.h>
+#include<conio.h>
 int main()
 {
 int number,original number,reminder,result=0;
